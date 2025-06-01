@@ -9,7 +9,7 @@ public class caracter : MonoBehaviour
     Rigidbody rb;
     private Rigidbody rigidBody;
     private Animator animator;
-    private float speed = 50f;
+    private float speed = 5f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
